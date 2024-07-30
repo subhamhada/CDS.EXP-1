@@ -46,4 +46,11 @@ int main()
 ```
 
 ## output-
+1.
 ![Screenshot 2024-07-30 221455](https://github.com/user-attachments/assets/753d50e7-074a-40f0-9744-9a3d7004802e)
+2.
+![Screenshot 2024-07-30 221545](https://github.com/user-attachments/assets/eb5a5df2-c651-4538-be93-4cd1134efadf)
+
+## Conclusion -
+These basic programs provide a solid foundation for understanding C++ syntax and basic operations. 
+They illustrate how to use input/output streams, arithmetic operations, which are essential for complex programming tasks.
