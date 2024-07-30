@@ -45,6 +45,10 @@ int main()
 }
 ```
 
+## Explanation - 
+Hello World: The program includes the necessary header files and uses the standard output stream to print "Hello World" to the console.
+Sum: These programs take input from the user, perform arithmetic calculations to find the sum of a number.
+
 ## output-
 1.
 ![Screenshot 2024-07-30 221455](https://github.com/user-attachments/assets/753d50e7-074a-40f0-9744-9a3d7004802e)
