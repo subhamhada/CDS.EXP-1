@@ -1,8 +1,6 @@
 # Experiment-1
-## Simple c++ codes.
 ## Aim - 
-To write simple C++ programs that demonstrate basic operations such as 
-printing a message, calculating the sum of numbers.
+downloading of vs code
 
 ## Theory - 
 These programs introduce fundamental concepts in C++ programming:
