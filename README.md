@@ -1,6 +1,6 @@
 # Experiment-1
 ## Aim - 
-downloading of vs code
+downloading and installing of vs code,(Hello world and calculator program)
 
 ## Theory - 
 These programs introduce fundamental concepts in C++ programming:
