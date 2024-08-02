@@ -11,6 +11,9 @@ Hello World: Demonstrates the basic structure of a C++ program and how to output
 
 Sum: Shows how to perform arithmetic operations and calculate the sum of numbers.
 
+## downloading and installing of vs code and Mingw
+[subham-vs_code_installation.docx](https://github.com/user-attachments/files/16465427/subham-vs_code_installation.docx)
+
 ## Code - 
 ### 1. 
 ```
@@ -49,6 +52,7 @@ int main()
 
 ## Explanation - 
 Hello World: The program includes the necessary header files and uses the standard output stream to print "Hello World" to the console.
+
 Sum: These programs take input from the user, perform arithmetic calculations to find the sum of a number.
 
 ## Output -
@@ -58,5 +62,6 @@ Sum: These programs take input from the user, perform arithmetic calculations to
 ![Screenshot 2024-07-30 221545](https://github.com/user-attachments/assets/eb5a5df2-c651-4538-be93-4cd1134efadf)
 
 ## Conclusion -
-These basic programs provide a solid foundation for understanding C++ syntax and basic operations. 
+These basic programs provide a solid foundation for understanding C++ syntax and basic operations by the setup of vs code and Mingw.
+
 They illustrate how to use input/output streams, arithmetic operations, which are essential for complex programming tasks.
