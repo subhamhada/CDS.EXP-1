@@ -11,7 +11,7 @@ Hello World: Demonstrates the basic structure of a C++ program and how to output
 
 Sum: Shows how to perform arithmetic operations and calculate the sum of numbers.
 
-## downloading and installing of vs code and Mingw
+## Downloading and installing of vs code and Mingw
 [subham-vs_code_installation.docx](https://github.com/user-attachments/files/16465427/subham-vs_code_installation.docx)
 
 ## Code - 
