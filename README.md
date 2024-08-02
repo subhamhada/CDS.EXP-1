@@ -3,8 +3,12 @@
 Downloading and installing of vs code,(Hello world and calculator program)
 
 ## Theory - 
+we study about downloading and installing of vs code and the start doing programs in it.
+
 These programs introduce fundamental concepts in C++ programming:
+
 Hello World: Demonstrates the basic structure of a C++ program and how to output text to the console.
+
 Sum: Shows how to perform arithmetic operations and calculate the sum of numbers.
 
 ## Code - 
